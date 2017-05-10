@@ -1,0 +1,20 @@
+{
+    "name": "efulimurat/ticket",
+    "type": "project",
+    "require-dev": {
+        "smarty/smarty": "3.1.30"
+    },
+    "authors": [
+        {
+            "name": "Murat Aydin",
+            "email": "murat@murataydin.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "App": "src/",
+            "Mvc": "src/"
+        }
+    },
+    "require": {}
+}
